@@ -8,7 +8,15 @@
       "category": "Integrations",
       "tag": "Lights & Switches",
       "location": "https://raw.githubusercontent.com/ZRanger1/HubitatWizLightDriver/master/packageManifest.json",
-      "description": "Driver for Philips Wiz Color Bulbs"
+      "description": "Device handler for Philips Wiz Color Bulbs"
+    },
+    {
+      "id": "ecd49978-439b-46ac-95d2-f2c7c2bba0a8",
+      "name": "HubitatPixelblazeDriver",
+      "category": "Integrations",
+      "tag": "Lights & Switches",
+      "location": "https://raw.githubusercontent.com/zranger1/hubitatpixelblazedriver/master/packageManifest.json",
+      "description": "Device handler for the Pixelblaze addressable LED controller"
     }
   ]
 }
