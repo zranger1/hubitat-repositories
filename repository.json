@@ -1,0 +1,14 @@
+{
+  "author": "ZRanger1",
+  "gitHubUrl": "https://github.com/zranger1",
+  "packages": [
+    {
+      "id": "588f54ce-1cef-4f3a-a481-025909bcba8d",
+      "name": "HubitatWizLightDriver",
+      "category": "Integrations",
+      "tag": "Lights & Switches",
+      "location": "https://raw.githubusercontent.com/ZRanger1/HubitatWizLightDriver/master/packageManifest.json",
+      "description": "Driver for Philips Wiz Color Bulbs"
+    }
+  ]
+}
